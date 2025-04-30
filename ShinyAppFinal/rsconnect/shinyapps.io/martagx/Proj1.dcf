@@ -1,0 +1,12 @@
+name: Proj1
+title: Proj1
+username: martagx
+account: martagx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14653082
+bundleId: 10209093
+url: https://martagx.shinyapps.io/Proj1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
